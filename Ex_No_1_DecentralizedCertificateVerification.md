@@ -1,4 +1,7 @@
 ### Experiment 1: Decentralized Certificate Verification
+# Name: Magesh V
+# Reg no: 212222040092
+# Date :26-04-2025
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +42,11 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# Output:
+register:
+![blockchainex1](https://github.com/user-attachments/assets/2bd26c09-a1eb-4c74-b6e1-1ea16fc072fe)
+verify:
+![blockchainex1](https://github.com/user-attachments/assets/eada472b-8f33-4803-911d-58732ed9991d)
 
+# Result:
+Thus,to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is successfully executed.
